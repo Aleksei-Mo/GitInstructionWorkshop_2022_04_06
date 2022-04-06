@@ -85,4 +85,4 @@ $ git --version
 
 ## Альтернативные системы контроля версий.
 
-this is test string
+this is test string.
